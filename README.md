@@ -9,6 +9,10 @@ Just Another Text Editor (JATE) is a simple and ready-to-use text editor designe
 - **Cross-Platform:** Use JATE on various devices and operating systems via a web browser.
 - **Automatic Sync:** Changes are synced when you reconnect to the internet.
 - **Lightweight:** JATE is a simple and fast text editor.
+## Deployment 🚀
+
+Link to deployed application:
+https://pure-caverns-42182-f23a956581eb.herokuapp.com/
 
 ## Screenshot 📸
 
